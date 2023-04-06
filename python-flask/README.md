@@ -1,6 +1,6 @@
-##This is one of the endpoints written using the Flask framework and the Python programming language.
+## This is one of the endpoints written using the Flask framework and the Python programming language.
 
-#Dependencies: (can be installed using pip)
+# Dependencies: (can be installed using pip)
 - flask
 - flask_mysqldb
 - flask_cors
