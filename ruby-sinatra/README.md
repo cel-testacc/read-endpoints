@@ -4,8 +4,9 @@
 - sinatra
 - mysql2
 - json
+- rack-test 
 
-#### TODO:
-- fixing the 3rd actual endpoint (right now it uses the second endpoint for testing
-- finish the corresponding sql file
-- add a unit test
+1. Running the `top_quotes.rb` file launches the server.
+2. The data is located in the `\quotes` endpoint.
+3. A unit test file is added.
+4. The relevant mysql file is added here as well for reference.
