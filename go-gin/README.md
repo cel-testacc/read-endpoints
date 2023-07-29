@@ -1,4 +1,4 @@
-## This is one of the endpoints written using Go (which I am still learning) and the Gin framework.
+## This is one of the endpoints written using Go and the Gin framework.
 
 ### External Dependencies:
 - "github.com/gin-gonic/gin"
