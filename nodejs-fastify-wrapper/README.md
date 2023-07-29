@@ -1,10 +1,10 @@
-# This is the wrapper that calls all three endpoints. It is made using Node JS and the Fastify framework.
+## This is the wrapper that calls all three endpoints. It is made using Node JS and the Fastify framework.
 
-## Dependencies
+### Dependencies
 The project requires one dependency that can be installed via npm:
 - [fastify] (the node framework used) 
 
-## Running the project
+#### Running the project
 
 To run the project, in a terminal window, navigate to the project directory then 
 ```sh
